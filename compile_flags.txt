@@ -1,0 +1,5 @@
+-O3
+-mtune=native
+-I
+/opt/local/include
+-std=c11
